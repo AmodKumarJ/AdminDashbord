@@ -72,4 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # AdminDashbord
 dashbord Using React js and syncfusion
->>>>>>> origin/main
+![Dashbordpie](https://github.com/AmodKumarJ/AdminDashbord/assets/120616034/245577a9-9abe-44d5-a1fc-bf6125aac183)
+![dashbord2](https://github.com/AmodKumarJ/AdminDashbord/assets/120616034/8312aa78-8b68-449f-b7c3-58f205d48003)
+![Dashbord1](https://github.com/AmodKumarJ/AdminDashbord/assets/120616034/d9355089-1345-4e9c-ba8f-0c5407176d02)
+
